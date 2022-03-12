@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jungwhan-choi
-- 👀 I’m interested in playing games , guitar and watching movies!
-- 🌱 I’m currently learning c and python
+- 👀 I’m interested in playing games , guitar!
+- 🌱 I’m currently learning data_structure,Open Source & Linux,etc..
 
 
 <!---
