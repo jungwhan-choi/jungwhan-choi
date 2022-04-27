@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @jungwhan-choi
-- 👀 I’m interested in playing games , guitar!
-- 🌱 I’m currently learning data_structure,Open Source & Linux,etc..
+내이름 최정환, 21살이자 모쏠이다.
+롤 티어는 골딱이이고 메이지형 미드라이너이다. 롤하고싶다.
 
 
 <!---
